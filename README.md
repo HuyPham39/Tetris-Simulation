@@ -14,7 +14,8 @@ An application that aims to simulate traditional Tetris Game using Turtle graphi
 
 ### How to run the program
 
-* Clone the repository.
+* Download the latest release
+* Open terminal
 * Navigate to the project directory:
   ```bash
   cd Tetris-Simulation
