@@ -1,4 +1,4 @@
-from src.square import Square
+from .square import Square
 
 class Block:
     '''

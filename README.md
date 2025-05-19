@@ -15,7 +15,10 @@ An application that aims to simulate traditional Tetris Game using Turtle graphi
 ### How to run the program
 
 * Clone the repository.
-* Running the GameEngine.py file should start the game and closing it should end the game.
+* Navigate to the project directory:
+  ```bash
+  cd Tetris-Simulation
+* Run main.py
 * The game settings are set defaultly as follow:
     + Left/Right arrow key associates with left/right movement
     + Up arrow key associates with rotating movement
