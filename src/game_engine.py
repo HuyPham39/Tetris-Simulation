@@ -269,6 +269,3 @@ class Game:
             elif self.map[y] [x] != False:
                 return False
         return True
-
-if __name__ == '__main__':
-    Game()
